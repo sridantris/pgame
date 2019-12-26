@@ -24,7 +24,7 @@ b.	Tranformasi Digital
       -	750K Spotify stream 
       -	156M emails sent 
       -	154K Skype calls
-    Refending  Data di atas adalah data yang di akumulasi setiap menit, jadi dari sinilah istilah Big Data muncul dan di sebut dengan Era 
+    Refending  Data di atas adalah data yang di akumulasi setiap menit, jadi dari sinilah istilah Big Data muncul dan di sebut dengan       Era 
     Digital Transform.
 c.	Sciance 
     Dari penjelasan di atas science adalah mencari sesautu value – value atau nilai nilai tersebut yang bermanfaat.
