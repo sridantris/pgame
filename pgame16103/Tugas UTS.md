@@ -1,18 +1,18 @@
-##Dirangkum Oleh:
+##Dirangkum Oleh  ;
 ###NPM		      : 121055520116103
-###Nama	      	: Sri Dantris Anhal
+###Nama	      	  : Sri Dantris Anhal
 ***
 
 ##Materi Seminar I,
 ###Waktu		      : 10/12/2019 : 09.00
 ###Tempat		      : Rektorat UMMU
 ###Durasi		      : 10.11-11.13 Menit, Sesi Ke-2
-###Nama Pemateri	: Dr.Ing. Ridho Rahamadi, Msc.
+###Nama Pemateri	  : Dr.Ing. Ridho Rahamadi, Msc.
 ###Judul		      : Data Science
-###Isi Materi   	: Data Sciance
+###Isi Materi   	  : Data Sciance
 ***
 a.	Data
-    Data adalah Sesuatu yang kita kumpulkan atau Observasi, apa yang kita lihat kita catat contoh kita lihat spit yang lalu lintas \
+    Data adalah Sesuatu yang kita kumpulkan atau Observasi, apa yang kita lihat kita catat contoh kita lihat spit yang lalu lintas 
     ke tidore-ternate perhari kita catat.
 b.	Tranformasi Digital
     •	Redefining Data
@@ -49,9 +49,9 @@ d.	Metode untuk mencari sebuah value
 ###Waktu		      : 10/12/2019 : 09.00
 ###Tempat		      : Rektorat UMMU
 ###Durasi		      : 11.15 – 12.54 Menit, Sesi Ke 2
-###Nama Pemateri	: Yudi Prayudi, M.Kom
-###Judul Materi	  : Overview Forensik Digital
-###Isi Materi	    : Ilmu Forensik, Forensik Digital, Kebutuhan SDM Forensik Digital, Pendidikan Forensik Digital, Penelitian Forensik Digital, Prospek Forensik Digital di Indonesia, Sharing Knowladge, Asosiasi Forensik Digital Indonesia (AFDI)
+###Nama Pemateri	  : Yudi Prayudi, M.Kom
+###Judul Materi	      : Overview Forensik Digital
+###Isi Materi	      : Ilmu Forensik, Forensik Digital, Kebutuhan SDM Forensik Digital, Pendidikan Forensik Digital, Penelitian Forensik Digital, Prospek Forensik Digital di Indonesia, Sharing Knowladge, Asosiasi Forensik Digital Indonesia (AFDI)
 
 1.	Bring Your Own Device adalah salah 1 gaya hidup, dengan gaya hidup ini kita bisa bekerja di manapun tanpa memerlukan smartphone,
     laptop, dan nootbook kita.
@@ -68,12 +68,12 @@ d.	Metode untuk mencari sebuah value
 ***
 
 ##Materi Seminar III,
-###Waktu      		: 10/12/2019 : 09.00
+###Waktu      		  : 10/12/2019 : 09.00
 ###Tempat		      : Rektorat UMMU
 ###Durasi		      : 9.30 – 10.15 Menit, Sesi Ke – 3
-###Nama Pemateri	: Abdul Haris Muhammad, S.T., M.Kom
-###Judul Materi	  : Digital Lifestyle
-###Isi Materi	    : Digital Life, Digital Identity (identitas digital), The Impact Of Digital LifeStyle, Data Sciace And Digital Forensik Challenges
+###Nama Pemateri	  : Abdul Haris Muhammad, S.T., M.Kom
+###Judul Materi	      : Digital Lifestyle
+###Isi Materi	      : Digital Life, Digital Identity (identitas digital), The Impact Of Digital LifeStyle, Data Sciace And Digital Forensik Challenges
 ***
 
 a.	Digital Life
